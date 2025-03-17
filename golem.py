@@ -15,8 +15,8 @@ bot = telebot.TeleBot('7698376687:AAFqyyP5qtuBavra-agqE6lRf08WvYmwp-w') #bot tok
 admin_id = ["1914939573 , 5489294204"]     #admin id dalo
 
 # Group and channel details
-GROUP_ID = "-4755293787"            #group id dalo
-CHANNEL_USERNAME = "@FREEDILDOS"         #channel username 
+GROUP_ID = "-1002514886938"            #group id dalo
+CHANNEL_USERNAME = "@freedildos12"         #channel username 
 
 # Default cooldown and attack limits
 COOLDOWN_TIME = 10  # Cooldown in seconds
