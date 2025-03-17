@@ -8,7 +8,7 @@ import aiohttp
 import threading
 import random
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7698376687:AAFqyyP5qtuBavra-agqE6lRf08WvYmwp-w') #bot token dalo
+bot = telebot.TeleBot('7584456695:AAFsPsHaMCbUNaj4BoGfH60Eb3QXMuhuCok') #bot token dalo
 
 
 # Admin user IDs
